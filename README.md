@@ -7,3 +7,5 @@ Further, we suggest to do a clustering of the cells and rename the idents findin
 
 The function requires as input the processed SeuratObject and it will return a new element, a Cell DataSet, which contains the expression matrix of genes in cells metadata regarding both genes and cells.
 This element will be usable in Monocle3 library to perform each of its analysis.
+
+*libarry(Seurat)
